@@ -20,7 +20,9 @@ from nltk.probability import FreqDist
 
 texto = """
 Soy Liz Torres ingeniera de sistemas, me gusta la tecnologia y aprender nuevas cosas.
-Me enfoco en gestión de proyectos, para el programa de IA mi compañero es Andres.
+Me enfoco en gestión de proyectos, para el programa de IA mi compañero es Andres Meza, 
+el es Ingeniero de sistemas, le gusta montar en bicicleta y nadar en el tiempo libre,
+él es de Bucaramanga, Colombia.
 """
 
 # Tokenización: Convertimos el texto en una lista de palabras individuales
