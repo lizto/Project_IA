@@ -1,0 +1,31 @@
+id;title;year;category;rating;overview
+1;ChatGPT;2022;chatbot;4.9;Asistente conversacional multimodal, con 700 M usuarios semanales y altísima adopción.  
+2;Claude;2023;chatbot;4.7;Chatbot valorado por su fluidez, privacidad y premio 'Best AI Chatbot' en 2025.  
+3;Gemini;2024;multimodal;4.6;IA multimodal integrada en ecosistema Google, fuerte en Workspace e imágenes.  
+4;Fathom;2020;meeting assistant;5.0;Asistente de reuniones con 5/5 en G2 y más de 5 200 reseñas positivas.  
+5;Perplexity AI;2024;search assistant;4.5;Motor de búsqueda con IA que entrega respuestas citadas y reportes personalizados.  
+6;Synthesia;2024;video generation;4.4;Plataforma de video con IA usada por empresas para contenidos corporativos.  
+7;Midjourney;2022;image generation;4.5;Generador de imágenes con estética artística muy popular en Discord.  
+8;DALL·E 3;2024;image generation;4.6;Modelo de OpenAI, genera imágenes detalladas desde texto con gran coherencia.  
+9;Stable Diffusion;2022;image generation;4.5;Modelo open-source para generación de imágenes personalizables.  
+10;Runway ML;2023;video generation;4.4;Plataforma creativa que combina generación de video, estilo y colaboración.  
+11;Descript;2023;video editing;4.3;Editor de video basado en texto que transcribe y permite editar fácilmente.  
+12;Grammarly;2017;text enhancement;4.5;Revisor gramatical IA ampliamente adoptado por su precisión y facilidad.  
+13;Wordtune;2020;text enhancement;4.4;Reescritura de texto con IA para mejorar tono y claridad.  
+14;Jasper;2021;content creation;4.5;Generador de contenido para marketing y copywriting con plantillas útiles.  
+15;Copy.ai;2021;marketing;4.4;Herramienta para crear textos de ventas, anuncios y campañas.  
+16;Canva Magic Studio;2023;graphic design;4.6;Suite de diseño con IA y más de 220 M usuarios activos.  
+17;Hugging Face;2017;ml-platform;4.5;Infraestructura y biblioteca esencial para modelos transformadores.  
+18;TensorFlow;2015;ml-platform;4.3;Framework de ML muy utilizado en investigación e industria.  
+19;PyTorch;2016;ml-platform;4.4;Framework de deep learning popular entre investigadores y desarrolladores.  
+20;n8n;2019;automation;4.4;Herramienta open-source de automatización con soporte para IA.  
+21;Manus Broad Research;2025;automation;4.6;Plataforma AI con 100 agentes operando colectivamente para tareas complejas.  
+22;Hugging Face Spaces;2022;deployment;4.4;Plataforma para desplegar modelos IA con facilidad en aplicaciones públicas.  
+23;Mistral Medium 3;2025;model;4.6;Modelo open comercial con rendimiento al nivel de Claude y accesible en APIs.  
+24;Devstral;2025;model;4.5;Modelo open-source para codificación con licencia Apache 2.0, superior en benchmarks.  
+25;DeepSeek V3;2025;model;4.4;Modelo abierto orientado a investigadores con fuerte capacidad de razonamiento.  
+26;Qwen 3;2025;model;4.4;Modelo open-source de Alibaba para razonamiento rápido y flexible.  
+27;Veo 3;2025;video generation;4.5;Generador de video cinematográfico por Google, premiado como mejor de 2025.  
+28;Riffusion;2023;music generation;4.5;Genera música desde spectrogramas, ideal para experimentación creativa.  
+29;ElevenLabs;2023;voice generation;4.5;Generación de voz natural con adopción extensa en audio y narraciones.  
+30;DeepL;2017;translation;4.7;Servicio de traducción profesional con alta precisión y popularidad.  
